@@ -41,10 +41,10 @@
 
 ### 🖼️ Project Gallery
 
-#### 🧾 Sumo Robot
+#### 🧾 Robot Arm
 ![Sumo Robot](https://drive.google.com/uc?id=1B1QaQbSj__LTVG399DX_OXCxyCm323fr)
 
-#### 🧾 Sumo Arm
+#### 🧾 Sumo Robot
 ![Sumo Arm](https://drive.google.com/uc?id=1hY4SPz4u_WQgweIcZuHWGIBE3XVrb3iZ)
 
 ---
@@ -59,6 +59,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrlabib724&layout=compact&theme=radical&hide_border=true&border_radius=10" width="50%" />
 </p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amrlabib724&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrlabib724&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+</p>
+
 
 ---
 
