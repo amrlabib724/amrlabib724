@@ -57,26 +57,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrlabib724&layout=compact&theme=radical&hide_border=true&border_radius=10" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrlabib724&layout=compact&theme=radical&hide_border=true&border_radius=10" width="40%" />
 </p>
 
 ---
-
-### 🨠 Currently Learning
-
-```verilog
-// Getting hands-on with Digital Design ⚡️
-module blink_led (
-    input clk,
-    output reg led
-);
-    reg [23:0] counter;
-    always @(posedge clk) begin
-        counter <= counter + 1;
-        led <= counter[23];
-    end
-endmodule
-```
 
 ---
 
