@@ -45,7 +45,7 @@
 ![Robotic Arm](https://drive.google.com/uc?id=1B1QaQbSj__LTVG399DX_OXCxyCm323fr)
 
 #### 🦾 Sumo Robot
-![Sumo Robot](https://drive.google.com/uc?id=1aKx4iCUuxyKZQhkkxstMUCHXHRr1R7RE)
+![Sumo Robot](https://drive.google.com/file/d/1hY4SPz4u_WQgweIcZuHWGIBE3XVrb3iZ/view?usp=drive_link)
 
 ---
 
