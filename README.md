@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Amr Labib
+<h1 align="center">Hi, I'm amr labib  👋</h1>
 
 ### ⚙️ Engineering Student & Tech Explorer
 
