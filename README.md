@@ -50,14 +50,13 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amrlabib724&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=10" width="44%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrlabib724&theme=midnight-purple&hide_border=true&border_radius=10" width="44%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amrlabib724&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrlabib724&theme=midnight-purple&hide_border=true&border_radius=10" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrlabib724&layout=compact&theme=midnight-purple&hide_border=true&border_radius=10" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrlabib724&layout=compact&theme=midnight-purple&hide_border=true&border_radius=10" width="40%" />
 </p>
 
 
