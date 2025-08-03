@@ -14,11 +14,6 @@
 
 ### 🔗 Connect with Me
 
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/amr-labib-3257b22a)
-- 📘 [Facebook](https://www.facebook.com/amrlabib2005/8/)
-- 💻 GitHub: [amrlabib724](https://github.com/amrlabib724)
-
 <p align="left">
   <a href="https://www.linkedin.com/in/amr-labib-3257b22a"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://www.facebook.com/amrlabib2005/8/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
