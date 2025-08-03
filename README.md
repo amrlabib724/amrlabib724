@@ -14,6 +14,7 @@
 
 ### 🔗 Connect with Me
 
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/amr-labib-3257b22a)
 - 📘 [Facebook](https://www.facebook.com/amrlabib2005/8/)
 - 💻 GitHub: [amrlabib724](https://github.com/amrlabib724)
@@ -44,13 +45,11 @@
 
 ### 🖼️ Project Gallery
 
-#### 🤖 Robotic Arm
-![Robotic Arm](https://drive.google.com/file/d/1B1QaQbSj__LTVG399DX_OXCxyCm323fr/view?usp=sharing)
-
 #### 🧾 Sumo Robot
 ![Sumo Robot](https://drive.google.com/uc?id=1hY4SPz4u_WQgweIcZuHWGIBE3XVrb3iZ)
 
-
+#### 🤖 Robotic Arm
+![Robotic Arm](https://drive.google.com/uc?id=1aKx4iCUuxyKZQhkkxstMUCHXHRr1R7RE)
 
 ---
 
