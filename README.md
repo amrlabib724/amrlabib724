@@ -1,76 +1,78 @@
-<h1 align="center">Hi, I'm Ahmed Adel  👋</h1>
-<h3 align="center">Flutter Developer 🧠 | Content Creator 🎥 | Founder of <a href="https://learrnsimply.com" target="_blank">Learn Simply</a> 📚</h3>
+## 👋 Hi, I'm Amr Labib
 
-<p align="center">
-  <a href="https://instagram.com/ahmed.aaddel"><img src="https://img.shields.io/badge/@ahmed.aaddel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ahmed-adel-11bba6177"><img src="https://img.shields.io/badge/Ahmed%20Adel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-Learn_Simply-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://facebook.com/ahmed.learnsimply"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://learrnsimply.com"><img src="https://img.shields.io/badge/Website-learrnsimply.com-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-</p>
+### ⚙️ Engineering Student & Tech Explorer
+
+- 🎓 Electronics & Communications Engineering @ Mansoura University
+- 🤖 Embedded Systems & Robotics Enthusiast
+- 🔩 Digital IC Design Learner (FPGA / Verilog)
+- 🧠 Digital Electronics Self-Learner
+- 🔧 Arduino / ESP32 Developer
+- 📈 Passionate about eco-innovation & sustainable hardware
+- 💼 Exploring business, startups & product development
 
 ---
 
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
+### 🔗 Connect with Me
 
-## 🚀 About Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/amr-labib-3257b22a)
+- 📘 [Facebook](https://www.facebook.com/amrlabib2005/8/)
+- 💻 GitHub: [amrlabib724](https://github.com/amrlabib724)
 
-```dart
-class AhmedAdel {
-  String role = "Flutter Developer & Instructor";
-  String language = "Arabic";
-  String brand = "Learn Simply | اتعلم ببساطة";
-  List<String> skills = [
-    "Flutter UI/UX",
-    "Dart Animations",
-    "Python, Java, C++",
-    "GitHub & Copilot",
-    "Arabic Content Creation"
-    "Simplify Code"
-  ];
-}
+---
+
+### 🛠️ Notable Projects
+
+- 🦾 **Sumo Robot**  
+  A battle-ready robot built for autonomous competition. Combines motor control, IR sensors, and smart tactics.
+
+- 🤖 **Robotic Arm**  
+  Controlled via Arduino and ESP32 with PWM & serial comms. Designed for precision pick-and-place tasks.
+
+- 🌿 **Green Rooftop Project**  
+  A sustainable rooftop farming initiative using biodegradable seed capsules and organic fertilizers. Encourages urban agriculture and green spaces.
+
+---
+
+### 🖼️ Project Gallery
+
+#### 🦾 Sumo Robot
+![Sumo Robot](https://drive.google.com/uc?id=1B1QaQbSj__LTVG399DX_OXCxyCm323fr)
+
+#### 🌿 Green Rooftop
+![Green Rooftop](https://drive.google.com/uc?id=1AzOw9JmvjsgVRLS-ZnSoKTLcdsb90new)
+
+#### 🤖 Robotic Arm
+![Robotic Arm](https://drive.google.com/uc?id=1aKx4iCUuxyKZQhkkxstMUCHXHRr1R7RE)
+
+---
+
+### 📊 GitHub Stats
+
+![Amr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amrlabib724&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amrlabib724&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🧠 Currently Learning
+
+```verilog
+// Getting hands-on with Digital Design ⚡️
+module blink_led (
+    input clk,
+    output reg led
+);
+    reg [23:0] counter;
+    always @(posedge clk) begin
+        counter <= counter + 1;
+        led <= counter[23];
+    end
+endmodule
 ```
-## 🔥 Highlights
-
-- 🔥 Built a YouTube channel with **240K+ subscribers**
-- 👨‍🏫 Teaching programming in **simple Arabic** — clear, visual, and practical
-- 📚 Founder of [learrnsimply.com](https://learrnsimply.com) – an Arabic-first coding school
-- 🧩 Building **reusable Flutter components**, animations & UI kits
-- 📦 Making **clean code fun** to learn for beginners
 
 ---
 
-## 🧰 Tech Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,java,python,vscode,github,figma,git,bash" />
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedlearnSimply&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedlearnSimply&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-</p>
-
----
-
-## 🎬 My YouTube Focus
-
-- ✅ **Flutter basics to advanced** (in Arabic)
-- ✅ **Problem-solving** with C++ & Java
-- ✅ **Real app UIs** with animations
-- ✅ Tips for **VS Code, Git**, and productivity
-- ✅ Free projects and walkthroughs
-
-▶️ Check it out: [**YouTube - Learn Simply**](https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1)
-
----
-
-
-
-## ⚡️ Motto
-
-> **“Let’s simplify learning, one line of code at a time.”**
+### 🚀 Always Open to:
+- Collaborations on hardware/software projects
+- Startup ideas & eco-focused tech
+- Connecting with like-minded makers & engineers
