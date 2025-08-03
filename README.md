@@ -42,10 +42,10 @@
 ### 🖼️ Project Gallery
 
 #### 🤖 Robotic Arm
-![Robotic Arm](https://drive.google.com/uc?id=1aKx4iCUuxyKZQhkkxstMUCHXHRr1R7RE)
+![Robotic Arm](https://drive.google.com/uc?id=1B1QaQbSj__LTVG399DX_OXCxyCm323fr)
 
 #### 🦾 Sumo Robot
-![Sumo Robot](https://drive.google.com/uc?id=1B1QaQbSj__LTVG399DX_OXCxyCm323fr)
+![Sumo Robot](https://drive.google.com/uc?id=1aKx4iCUuxyKZQhkkxstMUCHXHRr1R7RE)
 
 ---
 
